@@ -1,0 +1,4 @@
+interface:
+  display_name: "把需求理清楚"
+  short_description: "整理模糊与零散想法，只问影响结果的关键问题，明确需求并按原意继续工作"
+  default_prompt: "请用 $amplify-ai-clarify 帮我把当前想法整理到足以开展工作的程度，只追问真正影响结果的关键缺口，并按我要求的形式交付。"

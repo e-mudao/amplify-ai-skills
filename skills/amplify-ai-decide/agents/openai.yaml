@@ -1,0 +1,4 @@
+interface:
+  display_name: "把选择想清楚"
+  short_description: "在目标、约束和偏好下比较选项，给出推荐或条件性推荐，不用自造分数"
+  default_prompt: "请用 $amplify-ai-decide 帮我在当前选项里做选择：先分清硬约束、已知事实和未定偏好，再给推荐或条件性推荐；不要替我把偏好定死，也不要用自造分数。"

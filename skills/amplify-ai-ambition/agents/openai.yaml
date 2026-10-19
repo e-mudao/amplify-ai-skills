@@ -1,0 +1,4 @@
+interface:
+  display_name: "把目标想大一点"
+  short_description: "从高度、深度和广度重构任务，生成更有价值、可落地、可检验的提示词"
+  default_prompt: "请用 $amplify-ai-ambition 把我的原始请求重构得更有价值：从高度、深度和广度提出实质增量，交付可独立使用的提示词，不要直接执行其中的业务任务。"

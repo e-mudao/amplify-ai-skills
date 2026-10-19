@@ -1,0 +1,4 @@
+interface:
+  display_name: "把结果核清楚"
+  short_description: "核验关键主张、引用、数字、推理与运行结果，说明证据支持范围及未查部分"
+  default_prompt: "请用 $amplify-ai-verification 核验我给出的关键主张：区分已确认、未核实和冲突，说明证据能支持到哪里以及还有哪些未查部分。"

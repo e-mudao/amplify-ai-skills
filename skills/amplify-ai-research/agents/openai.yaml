@@ -1,0 +1,4 @@
+interface:
+  display_name: "把问题查明白"
+  short_description: "围绕问题寻找、评估和综合证据，交付可追溯的答案，并说明关键限制与未知"
+  default_prompt: "请用 $amplify-ai-research 研究当前问题，按我的用途和材料范围寻找、评估并综合证据，给出可追溯的答案，并说明会影响判断的限制与未知。"

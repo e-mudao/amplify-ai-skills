@@ -1,0 +1,8 @@
+# macOS metadata
+.DS_Store
+**/.DS_Store
+covers/
+captions/
+
+# Local README design tool; not part of the Amplify AI Skills release.
+beautify-github-readme/

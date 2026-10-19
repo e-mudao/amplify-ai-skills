@@ -1,0 +1,4 @@
+interface:
+  display_name: "把知识讲明白"
+  short_description: "按理解目标选择文字、图表、交互网页或讲解视频，生成可复用提示词或直接制作"
+  default_prompt: "请用 $amplify-ai-explain 帮我把这个主题讲清楚：先判断最适合的理解媒介，再给出可复用提示词；如果我要求成品，就直接制作，不要停在提示词。"

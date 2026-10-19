@@ -1,0 +1,4 @@
+interface:
+  display_name: "把意思表达好"
+  short_description: "把意图和素材写成适合读者、场合与媒介的可用文字"
+  default_prompt: "请用 $amplify-ai-write 根据我的意图和材料写一版可直接使用的文字，保留事实、立场和限制。"

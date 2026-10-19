@@ -1,0 +1,4 @@
+interface:
+  display_name: "把事情安排好"
+  short_description: "把目标变成可执行、可调整的安排，区分容量与日历时间，说明依赖、取舍和下一步"
+  default_prompt: "请用 $amplify-ai-plan 帮我把目标变成能开始执行的安排：区分容量与日历时间，标出依赖、关键假设、取舍和下一步；不要编造未给出的工时或空闲时间。"

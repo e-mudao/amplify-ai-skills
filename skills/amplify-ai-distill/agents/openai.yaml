@@ -1,0 +1,4 @@
+interface:
+  display_name: "把重点提出来"
+  short_description: "按用途提取、压缩和整合已有材料，保留关键事实、条件、分歧与出处"
+  default_prompt: "请用 $amplify-ai-distill 按我的用途提取材料重点，压缩重复和无关内容，保留关键事实、条件、分歧与出处，并说明影响结果的读取缺口。"

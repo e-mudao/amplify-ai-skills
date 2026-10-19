@@ -1,0 +1,4 @@
+interface:
+  display_name: "把结果改到位"
+  short_description: "把模糊反馈落实成具体修改，保留有效内容，控制范围并减少多轮偏移"
+  default_prompt: "请用 $amplify-ai-refine 根据我的反馈修改已有结果，保留明确要求不动的内容，并交付修改后的版本。"
